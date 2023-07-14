@@ -1,0 +1,102 @@
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\appsettings.Development.json
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\appsettings.json
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\Practical_30.exe
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\Practical_30.deps.json
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\Practical_30.runtimeconfig.json
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\Practical_30.dll
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\Practical_30.pdb
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\Castle.Core.dll
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\Moq.dll
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.csproj.AssemblyReference.cache
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.AssemblyInfoInputs.cache
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.AssemblyInfo.cs
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.csproj.CoreCompileInputs.cache
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.MvcApplicationPartsAssemblyInfo.cs
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.MvcApplicationPartsAssemblyInfo.cache
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.Practical_30.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.build.Practical_30.props
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practical_30.props
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practical_30.props
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets.build.json
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets.development.json
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\scopedcss\bundle\Practical_30.styles.css
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.csproj.CopyComplete
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.dll
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\refint\Practical_30.dll
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.pdb
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.genruntimeconfig.cache
+C:\Practical_30_Unit_Testing\Practical_30\Practical_30\obj\Debug\net6.0\ref\Practical_30.dll
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\appsettings.json
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\Practical_30.exe
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\Practical_30.deps.json
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\Practical_30.runtimeconfig.json
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\Practical_30.dll
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\Practical_30.pdb
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\Moq.dll
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\khush\Downloads\Practical_30\Practical_30\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.csproj.AssemblyReference.cache
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.AssemblyInfoInputs.cache
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.AssemblyInfo.cs
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.csproj.CoreCompileInputs.cache
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.Practical_30.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.build.Practical_30.props
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practical_30.props
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practical_30.props
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\scopedcss\bundle\Practical_30.styles.css
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.csproj.CopyComplete
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.dll
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\refint\Practical_30.dll
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.pdb
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\Practical_30.genruntimeconfig.cache
+C:\Users\khush\Downloads\Practical_30\Practical_30\obj\Debug\net6.0\ref\Practical_30.dll
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\appsettings.json
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\Practical_30.exe
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\Practical_30.deps.json
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\Practical_30.runtimeconfig.json
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\Practical_30.dll
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\Practical_30.pdb
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\Moq.dll
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\Practical_30.csproj.AssemblyReference.cache
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\Practical_30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\Practical_30.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\Practical_30.AssemblyInfo.cs
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\Practical_30.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\Practical_30.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\Practical_30.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.Practical_30.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.build.Practical_30.props
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practical_30.props
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practical_30.props
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\scopedcss\bundle\Practical_30.styles.css
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\Practical_30.csproj.CopyComplete
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\Practical_30.dll
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\refint\Practical_30.dll
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\Practical_30.pdb
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\Practical_30.genruntimeconfig.cache
+C:\Users\khush\source\repos\Design Pattern\Practical30\Practical_30\obj\Debug\net6.0\ref\Practical_30.dll
